@@ -13,9 +13,9 @@ A£º¹Ø¼ü´Ê£º±»ÖÆ·þ£¬±»ÆÈ£¡ÎÒ×îÏ²»¶µÄÓ¦¸ÃÊÇÖÐÑ§Ê±ºò±»Ç¿ÐÐ°ÇÐ¬×ÓµÄ¸Ð¾õ£¬¸Ð¾õ¹«¹²³¡Ë
 ±ÈÈç±»Ç¿ÖÆ¸ß³±£¬Ç¿ÖÆÄòÊ§½û¡£ËùÒÔÕâÃ´ÏëÀ´£¬±»°ÇÐ¬Ò²ÊÇ±»ÖÆ·þµÄÒ»ÖÖ¡£À¦°ó·½ÃæµÄ»°£¬ÎÒÖ»Ï²»¶ÄÇÖÖ×î×î×îÐ¡ÏÞ¶ÈµÄÄÜ¹»ÈÃÈËÌÓ²»×ßµÄÀ¦°ó£¬±ÈÈçËµÒ»Ö»½Å°óÆð
 µõ¸ßÖ®ÀàµÄ¡£×ÜµÄÀ´Ëµ¾ÍÊÇ¿ÚÎ¶±È½ÏÇåµ­£¬ÖÁÓÚ¾¿¾¹ÓÐ¶àÇåµ­µÄ»°£¬ÕâÃ´Ëµ´ó¸Å±È½ÏºÃÀí½â£ºÎÒ¿´³ÉÈËÆ¬µÄÊ±ºòÖ»¿´µ½ÍÑ¹â¹âÖ®Ç°¡£ÏÂÃæÂÞÁÐÁËÒ»Ð©ÊÓÆµ»òÕßÍ¼Æ¬£¬°ïÖú
 ¸üºÃµÄÀí½âÎÒµÄ°®ºÃ£º
-»ÃÏë¹ý£¬²¢·¢ÉúÔÚ×Ô¼ºÉíÉÏ¹ýµÄÀàËÆÊÂ¼þ£ºhttp://xiaoqizi.tk/happened/
-»ÃÏë¹ý£¬²¢ÇÒÏ£Íû·¢ÉúÔÚ×Ô¼ºÉíÉÏµÄÊÂÇé£ºhttp://xiaoqizi.tk/lookingforward/
-»ÃÏë¹ý£¬µ«²»¸ÒÕæÕý·¢ÉúÔÚ×Ô¼ºÉíÉÏµÄÊÂ£ºhttp://xiaoqizi.tk/afraidof/
+»ÃÏë¹ý£¬²¢·¢ÉúÔÚ×Ô¼ºÉíÉÏ¹ýµÄÀàËÆÊÂ¼þ£ºhttp://xiaoqizi.ml/happened/
+»ÃÏë¹ý£¬²¢ÇÒÏ£Íû·¢ÉúÔÚ×Ô¼ºÉíÉÏµÄÊÂÇé£ºhttp://xiaoqizi.ml/lookingforward/
+»ÃÏë¹ý£¬µ«²»¸ÒÕæÕý·¢ÉúÔÚ×Ô¼ºÉíÉÏµÄÊÂ£ºhttp://xiaoqizi.ml/afraidof/
 
 Q£º°ÇÐ¬ÎªÊ²Ã´º¦Ðß£¿
 A£º³ýÁËÎÒ¾õµÃ½ÅÒ²ÊÇÒ»¸ö±È½ÏÒþË½µÄ²¿Î»ÒÔÍâ¡£Ò²¸ú»·¾³ÓÐ¹Ø£¬±ÈÈçÔÚÒ»¸ö´ó¼Ò¶¼´©Ð¬µÄ»·¾³£¬ÄãÒ»¸öÈË±»ÆÈµÄ°ÇÐ¬ÁË£¬ÕâÖÖ²»Í¬¸ü¼ÓÈÃÈËº¦Ðß¡£
